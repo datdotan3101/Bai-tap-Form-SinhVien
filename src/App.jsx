@@ -2,7 +2,7 @@ import React from "react";
 import { Provider } from "react-redux";
 import Layout from "./component/Layout";
 import store from "./redux/store";
-import "./index.css";
+import "./index.scss";
 
 const App = () => {
   return (
